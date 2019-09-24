@@ -9,6 +9,7 @@
     If hashes match: Unzip Files    
     Else: Error 
 
+## Script   
 ```powershell
 $localPath = "YOUR_SOURCE_PATH"
 $destinationPath = "YOUR_DESTINATION_PATH"
